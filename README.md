@@ -23,9 +23,10 @@ Desde una sólida base en **informática** adquirida en la **Escuela de Educaci�
 
 ### 🔧 Habilidades y Experiencia 🛠️
 
-- **Lenguajes de Programación:** Python, C++, HTML5, CSS, C#
+- **Lenguajes de Programación:** Python y C++
 - **Herramientas y Técnicas:** Machine Learning, Análisis de Datos, Visualización de Datos
-- **Proyectos:** Investigación sobre relaciones económicas entre la provincia de Buenos Aires y la República Popular de China, Prácticas Profesionalizantes en análisis económico.
+
+<!-- - **Proyectos:** . . . Proyecto de Investigación Oficial de mi Universidad: Relaciones económicas y comerciales, entre la provincia de Buenos Aires, MERCOSUR y la República Popular de China. -->
 
 ### 🌟 Mi Misión y Objetivos 🌟
 
