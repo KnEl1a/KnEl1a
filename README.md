@@ -14,7 +14,7 @@
 
 ### 🎓 Estudiante Avanzado en la carrera de Licenciatura en Economía en la Universidad Nacional del Oeste 📚
 
-Soy un estudiante a punto de recibir mi **Licenciatura en Economía** en la Universidad Nacional del Oeste, donde he profundizado en análisis económico, estadísticas y matemáticas. Actualmente, estoy combinando mi formación en economía con habilidades técnicas en **Python** y **machine learning** para explorar el mundo de la ciencia de datos.
+Soy un estudiante a punto de recibir mi **Licenciatura en Economía** en la Universidad Nacional del Oeste, donde he profundizado en análisis económico, estadísticas y matemáticas. Actualmente, estoy combinando mi formación en economía con habilidades técnicas en **Python** y **Machine learning** para explorar el mundo de la ciencia de datos.
 
 ### 💡 Mi Trayectoria 🚀
 
@@ -29,7 +29,7 @@ Desde una sólida base en **informática** adquirida en la **Escuela de Educaci�
 
 ### 🌟 Mi Misión y Objetivos 🌟
 
-Mi meta es utilizar mis habilidades en programación y análisis de datos para abordar problemas en el ámbito **financiero** y mejorar algoritmos de **series temporales**. Busco aprender nuevas herramientas e incorporar mejores técnicas, y estoy entusiasmado por el potencial de la **ciencia de datos** y el **Deeplearning** en la toma de decisiones estratégicas.
+Mi meta es utilizar mis habilidades en programación y análisis de datos para abordar problemas en el ámbito **financiero** y mejorar algoritmos de **series temporales**. Busco aprender nuevas herramientas e incorporar mejores técnicas, y estoy entusiasmado por el potencial de la **ciencia de datos** y el **Deep learning** en la toma de decisiones estratégicas.
 
 <!--Intro end-->
   </p>
@@ -48,7 +48,7 @@ Mi meta es utilizar mis habilidades en programación y análisis de datos para a
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,docker,arduino,blender,notion,dart,mongodb,replit,octave,css,html,php,mysql,github,docker,bash,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,docker,arduino,blender,notion,mongodb,replit,octave,html,css,php,mysql,github,docker,bash,linux,&perline=12" />
   </a>
 </p>
 <br>
