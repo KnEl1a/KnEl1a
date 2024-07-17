@@ -29,7 +29,7 @@
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left">
+<table align="center" style="width: 100%; table-layout: fixed;">
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
@@ -42,11 +42,11 @@
   </td>
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O.git" title="Go to Source">
+     <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O" title="Go to Source">
         <img align="center" width="100%" src="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png" alt="VIDEO" /></a>
     </p>
     <p align="center">
-      <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </p>       
   </td>
   <td width="25%" align="center">
