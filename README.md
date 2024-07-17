@@ -24,7 +24,7 @@ Desde una sólida base en **informática** adquirida en la **Escuela de Educaci�
 ### 🔧 Habilidades y Experiencia 🛠️
 
 - **Lenguajes de Programación:** Python y C++
-- **Herramientas y Técnicas:** Machine Learning, Análisis de Datos, Visualización de Datos
+- **Especialización:** Machine Learning, Deep Learning, Análisis de Datos, Visualización de Datos, WebScraping
 
 <!-- - **Proyectos:** . . . Proyecto de Investigación Oficial de mi Universidad: Relaciones económicas y comerciales, entre la provincia de Buenos Aires, MERCOSUR y la República Popular de China. -->
 
@@ -36,7 +36,7 @@ Mi meta es utilizar mis habilidades en programación y análisis de datos para a
   </p>
 <br>
 
-<h2 >Especializado en👨🏻‍💻</h2>
+<h2 >Tecnologías principales👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
