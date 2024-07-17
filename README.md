@@ -105,5 +105,3 @@ Mi meta es utilizar mis habilidades en programación y análisis de datos para a
   </p>
 <br>
 
-<!-------------------------->
-![image](https://github.com/user-attachments/assets/f02d052c-226c-4400-a7ce-9a3d07176e97)
