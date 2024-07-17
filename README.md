@@ -5,6 +5,27 @@
 <a href = "mailto:knauselias29@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
+
+<br>
+
+<h2 >Tecnologías principales👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,postgres,sqlite,git,aws,gcp,cpp&perline=12" />
+  </a>
+</p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,arduino,blender,notion,mongodb,replit,octave,html,css,php,mysql,github,docker,bash,linux,&perline=12" />
+  </a>
+</p>
+<br>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
