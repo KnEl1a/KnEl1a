@@ -55,21 +55,4 @@ Mi meta es utilizar mis habilidades en programación y análisis de datos para a
   </p>
 <br>
 
-<h2 >Tecnologías principales👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,postgres,sqlite,git,aws,gcp,cpp&perline=12" />
-  </a>
-</p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,arduino,blender,notion,mongodb,replit,octave,html,css,php,mysql,github,docker,bash,linux,&perline=12" />
-  </a>
-</p>
-<br>
 <!-------------------------->
