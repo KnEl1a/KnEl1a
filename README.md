@@ -48,7 +48,7 @@ Mi meta es utilizar mis habilidades en programación y análisis de datos para a
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,docker,arduino,blender,notion,mongodb,replit,octave,html,css,php,mysql,github,docker,bash,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,arduino,blender,notion,mongodb,replit,octave,html,css,php,mysql,github,docker,bash,linux,&perline=12" />
   </a>
 </p>
 <br>
