@@ -9,11 +9,10 @@
 <!--Intro start-->
 
 <p align="left">
-Aquí tienes una descripción para tu perfil de GitHub que refleja tu formación académica, tu experiencia en programación, y tu interés en la ciencia de datos y el machine learning:
 
 ---
 
-### 🎓 Estudiante Avanzado de Licenciatura en Economía en la Universidad Nacional del Oeste (UNO) 📚
+### 🎓 Estudiante Avanzado en la carrera de Licenciatura en Economía en la Universidad Nacional del Oeste (UNO) 📚
 
 Soy un estudiante a punto de recibir mi **Licenciatura en Economía** en la Universidad Nacional del Oeste, donde he profundizado en análisis económico, estadísticas y matemáticas. Actualmente, estoy combinando mi formación en economía con habilidades técnicas en **Python** y **machine learning** para explorar el mundo de la ciencia de datos.
 
