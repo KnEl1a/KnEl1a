@@ -29,11 +29,7 @@ Desde una sólida base en **informática** adquirida en la **Escuela de Educaci�
 
 ### 🌟 Mi Misión y Objetivos 🌟
 
-Mi meta es utilizar mis habilidades en programación y análisis de datos para abordar problemas en el ámbito **financiero** y mejorar algoritmos de **series temporales**. Busco aprender nuevas herramientas y técnicas, y estoy entusiasmado por el potencial de la ciencia de datos en la toma de decisiones estratégicas.
-
-### 📈 Próximos Pasos
-
-Estoy en constante aprendizaje y exploración de nuevas tecnologías y metodologías en **machine learning** y ciencia de datos. ¡Acompáñame en este viaje de descubrimiento y crecimiento profesional!
+Mi meta es utilizar mis habilidades en programación y análisis de datos para abordar problemas en el ámbito **financiero** y mejorar algoritmos de **series temporales**. Busco aprender nuevas herramientas e incorporar mejores técnicas, y estoy entusiasmado por el potencial de la **ciencia de datos** y el **Deeplearning** en la toma de decisiones estratégicas.
 
 <!--Intro end-->
   </p>
@@ -43,7 +39,7 @@ Estoy en constante aprendizaje y exploración de nuevas tecnologías y metodolog
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,gcp,cpp,py,tensorflow,sklearn,postgres,sqlite,git,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,postgres,sqlite,git,aws,gcp,cpp&perline=12" />
   </a>
 </p>
 <br>
@@ -52,7 +48,7 @@ Estoy en constante aprendizaje y exploración de nuevas tecnologías y metodolog
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cs,anaconda,azure,docker,arduino,blender,notion,php,dart,mongodb,replit,octave,flutter,dotnet,css,html,mysql,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,azure,docker,arduino,blender,notion,dart,mongodb,replit,octave,css,html,php,mysql,github,docker,bash,linux,&perline=12" />
   </a>
 </p>
 <br>
