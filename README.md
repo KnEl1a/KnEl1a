@@ -78,18 +78,21 @@
 
 ---
 
-### 🎓 Advanced Student in the Bachelor's Degree in Economics at the National University of the West 📚
+### 🎓 Advanced Student in the Bachelor's Degree in Economics at the [Universidad Nacional del Oeste](https://www.uno.edu.ar/) 📚
 
-I am a student about to receive my **Bachelor's Degree in Economics** from the National University of the West, where I have delved into economic analysis, statistics, and mathematics. Currently, I am combining my economics education with technical skills in **Python** and **Machine Learning** to explore the world of data science.
+I am a student about to receive my **Bachelor's Degree in Economics** from the Universidad Nacional del Oeste, where I have delved into economic analysis, statistics, and mathematics. Currently, I am combining my economics education with technical skills in **Python** and **Machine Learning** to explore the world of data science.
 
 ### 💡 My Path 🚀
 
-From a solid foundation in **computer science** acquired at **Technical Secondary School No. 5 Merlo**, where I learned C++, HTML5, CSS, C#, and Excel, to a university career focused on economic analysis, my goal is to integrate these technical and analytical skills to tackle complex challenges and develop innovative solutions in **data**.
+From a solid foundation in **computer science** acquired at [**Technical Secondary School No. 5 Merlo**](https://tecnica5merlo.edu.ar/), where I learned C++, HTML5, CSS, C#, and Excel, to a university career focused on economic analysis, my goal is to integrate these technical and analytical skills to tackle complex challenges and develop innovative solutions in **data**.
 
 ### 🔧 Skills and Experience 🛠️
 
 - **Programming Languages:** Python and C++
 - **Specialization:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Web Scraping
+
+**In 2023**, during my studies, and through the [**official provision of the university**](https://www.uno.edu.ar/images/documentos/PROYECTOID/Disposicion%20SCyT%20n%2016-2023.pdf), I was granted permission to participate as a volunteer assistant in an official university research project, which lasted for more than a year. **The project focused on international trade relations between Mercosur and China and their economic impact on the Province of Buenos Aires**. There, I was able to apply many of my **Python skills for the visualization of the collected data**.
+
 
 <!-- - **Projects:** . . . Official Research Project at my University: Economic and Commercial Relations between the Province of Buenos Aires, MERCOSUR, and the People's Republic of China. -->
 
