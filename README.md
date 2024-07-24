@@ -88,7 +88,8 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
 
 ### 🔧 Skills and Experience 🛠️
 
-- **Programming Languages:** Python, PostgreSQL
+- **Main Database Management Systems:** PostgreSQL
+- **Programming Languages:** Python
 - **Python Libraries:** Pandas, NumPy, TensorFlow, Scikit-learn, XGBoost, Matplotlib, Plotly, Seaborn ,BeautifulSoup.
 - **Specialization:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Web Scraping
 
