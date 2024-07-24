@@ -88,7 +88,8 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
 
 ### 🔧 Skills and Experience 🛠️
 
-- **Programming Languages:** Python and C++
+- **Programming Languages:** Python, PostgreSQL
+- **Python Libraries:** Pandas, NumPy, TensorFlow, Scikit-learn, XGBoost, Matplotlib, Plotly, Seaborn ,BeautifulSoup.
 - **Specialization:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Web Scraping
 
 **In 2023**, during my studies, and through the [**official provision of the university**](https://www.uno.edu.ar/images/documentos/PROYECTOID/Disposicion%20SCyT%20n%2016-2023.pdf), I was granted permission to participate as a volunteer assistant in an official university research project, which lasted for more than a year. **The project focused on international trade relations between Mercosur and China and their economic impact on the Province of Buenos Aires**. There, I was able to apply many of my **Python skills for the visualization of the collected data**.
