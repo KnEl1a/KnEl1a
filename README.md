@@ -88,10 +88,9 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
 
 ### 🔧 Main Skills and Experience 🛠️
 
-- **Database Management Systems:** PostgreSQL, SQLite.
-- **Cloud Data Analysis Platform:** BigQuery.
-- **Programming Languages:** Python.
-- **Specialization:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Web Scraping.
+- **Database Management Systems:** PostgreSQL, SQLite
+- **Cloud Data Analysis Platform:** BigQuery
+- **Programming Languages:** Python
 - **Python Libraries:**
   - **Data Analysis:**
     - Pandas, NumPy
@@ -105,7 +104,6 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
     - BeautifulSoup
   - **Geospatial Analysis:**
     - GeoPandas, Folium
-
 
 
 
