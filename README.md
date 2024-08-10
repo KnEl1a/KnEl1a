@@ -95,7 +95,7 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
   - **Data Analysis:**
     - Pandas, NumPy
   - **Machine Learning & Deep Learning:**
-    - TensorFlow, Scikit-learn, XGBoost
+    - TensorFlow, Scikit-learn, XGBoost, Optuna
   - **Statistical Analysis:**
     - SciPy, StatsModels
   - **Data Visualization:**
