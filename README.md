@@ -86,9 +86,9 @@ I am a student about to receive my **Bachelor's Degree in Economics** from the U
 
 From a solid foundation in **computer science** acquired at [**Technical Secondary School No. 5 Merlo**](https://tecnica5merlo.edu.ar/), where I learned C++, HTML5, CSS, C#, and Excel, to a university career focused on economic analysis, my goal is to integrate these technical and analytical skills to tackle complex challenges and develop innovative solutions in **data**.
 
-### 🔧 Skills and Experience 🛠️
+### 🔧 Main Skills and Experience 🛠️
 
-- **Main Database Management Systems:** PostgreSQL, SQLite.
+- **Database Management Systems:** PostgreSQL, SQLite.
 - **Cloud Data Analysis Platform:** BigQuery.
 - **Programming Languages:** Python.
 - **Python Libraries:** Pandas, NumPy, TensorFlow, Scikit-learn, XGBoost, Matplotlib, Plotly, Seaborn, BeautifulSoup.
