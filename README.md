@@ -92,7 +92,7 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
 - **Cloud Data Analysis Platform:** BigQuery
 - **Programming Languages:** Python
 - **Python Libraries:**
-  - **Data Analysis:**
+  - **Data Analysis, Cleaning, Feature Engineering, and Operations:**
     - Pandas, NumPy
   - **Machine Learning & Deep Learning:**
     - TensorFlow, Scikit-learn, XGBoost, Optuna
