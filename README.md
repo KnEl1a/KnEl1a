@@ -43,8 +43,8 @@
                 <img align="center" width="100%" src="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png" alt="Project 2"/>
             </a>
             <br>
-            <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+            <a href="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping" target="blank">
+                <img src="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/blob/main/Other%20projects%20with%20Tensorflow%20and%20more/tf%20CNN%20Cat%20and%20Dog%20imgClassifier/img/class%20diagram.png" alt="GitHub"/>
             </a>
         </td>
         <td width="25%" align="center">
@@ -57,8 +57,8 @@
             </a>
         </td>
         <td width="25%" align="center">
-            <a href="https://github.com/KnEl1a/fcp-ML-and-DL-proyects" title="Go to Source">
-                <img align="center" width="100%" src="https://github.com/KnEl1a/fcp-ML-and-DL-proyects/raw/main/sec_14_GRU%20curve.png" alt="Project 4"/>
+            <a href="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/tree/main/Other%20projects%20with%20Tensorflow%20and%20more/TF%20and%20SK%20-%20Feature%20Engineering%20-%20Reg%20Probl" title="Go to Source">
+                <img align="center" width="100%" src="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/blob/main/Other%20projects%20with%20Tensorflow%20and%20more/TF%20and%20SK%20-%20Feature%20Engineering%20-%20Reg%20Probl/image-2.png" alt="Project 4"/>
             </a>
             <br>
             <a href="https://github.com/KnEl1a/fcp-ML-and-DL-proyects" target="blank">
