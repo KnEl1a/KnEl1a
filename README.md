@@ -93,15 +93,15 @@ From a solid foundation in **computer science** acquired at [**Technical Seconda
 - **Programming Languages:** Python
 - **Python Libraries:**
   - **Data Analysis, Cleaning, Feature Engineering, and Operations:**
-    - Pandas, NumPy
+    - Pandas, Polars, NumPy
   - **Machine Learning & Deep Learning:**
-    - TensorFlow, Scikit-learn, XGBoost, Optuna
+    - TensorFlow, Scikit-learn, XGBoost, LightGBM, Optuna
   - **Statistical Analysis:**
     - SciPy, StatsModels
   - **Data Visualization:**
     - Seaborn, Matplotlib, Plotly
   - **Web Scraping:**
-    - BeautifulSoup
+    - BeautifulSoup, Selenium, Scrapy
   - **Geospatial Analysis:**
     - GeoPandas, Folium
 
