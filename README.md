@@ -25,53 +25,12 @@
 
 <!-------------------------->
 
-<h2>Some Projects👨🏻‍💻</h2>
 
-<table align="center" style="width: 100%; table-layout: fixed;">
-    <tr valign="bottom">
-        <td width="25%" align="center">
-            <a href="https://github.com/KnEl1a/Data-Analysis-with-Python" title="Go to Source">
-                <img align="center" width="100%" src="https://github.com/KnEl1a/Data-Analysis-with-Python/raw/main/medical-data/heatmap.png" alt="Project 1"/>
-            </a>
-            <br>
-            <a href="https://github.com/KnEl1a/Data-Analysis-with-Python" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-            </a>
-        </td>
-        <td width="25%" align="center">
-            <a href="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O" title="Go to Source">
-                <img align="center" width="100%" src="https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png" alt="Project 2"/>
-            </a>
-            <br>
-            <a href="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping" target="blank">
-                <img src="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/blob/main/Other%20projects%20with%20Tensorflow%20and%20more/tf%20CNN%20Cat%20and%20Dog%20imgClassifier/img/class%20diagram.png" alt="GitHub"/>
-            </a>
-        </td>
-        <td width="25%" align="center">
-            <a href="https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/tree/main/PSQL-Salon-Appointment-Scheduler-main" title="Go to Source">
-                <img align="center" width="100%" src="https://camo.githubusercontent.com/64f86cba5012b9032dad7d9fe615ce17ed7aad2ceea05dafba95a5ebb4b7a279/68747470733a2f2f692e706f7374696d672e63632f5164643451514d712f706578656c732d64656c626561757479626f782d3835333432372d312e6a7067" alt="Project 3"/>
-            </a>
-            <br>
-            <a href="https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/tree/main/PSQL-Salon-Appointment-Scheduler-main" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-            </a>
-        </td>
-        <td width="25%" align="center">
-            <a href="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/tree/main/Other%20projects%20with%20Tensorflow%20and%20more/TF%20and%20SK%20-%20Feature%20Engineering%20-%20Reg%20Probl" title="Go to Source">
-                <img align="center" width="100%" src="https://github.com/KnEl1a/Portfolio--Machine-Learning-and-Web-scraping/blob/main/Other%20projects%20with%20Tensorflow%20and%20more/TF%20and%20SK%20-%20Feature%20Engineering%20-%20Reg%20Probl/image-2.png" alt="Project 4"/>
-            </a>
-            <br>
-            <a href="https://github.com/KnEl1a/fcp-ML-and-DL-proyects" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-            </a>
-        </td>
-    </tr>
-</table>
 
 <br>
 <!----------------->
 
-<h2>About Me 😃</h2>
+<h2>About Me</h2>
 <!--Intro start-->
 
 <p align="left">
