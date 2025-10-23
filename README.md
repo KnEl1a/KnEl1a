@@ -5,7 +5,7 @@
 <a href = "mailto:knauselias29@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
 
-<h2>Main Technologies👨🏻‍💻</h2>
+<h2>Favorite</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
 </p>
 <br>
 
-<h2>Known Technologies👨🏻‍💻</h2>
+<h2>Known</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
