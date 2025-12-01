@@ -26,55 +26,41 @@
 <!-------------------------->
 
 
-
-<br>
-<!----------------->
+---
 
 <h2>About Me</h2>
-<!--Intro start-->
 
 <p align="left">
 
 ---
 
-### 🎓 Advanced Student in the Bachelor's Degree in Economics at the [Universidad Nacional del Oeste](https://www.uno.edu.ar/) 📚
+### Bachelor of Economics from the Universidad Nacional del Oeste
 
-I am a student about to receive my **Bachelor's Degree in Economics** from the Universidad Nacional del Oeste, where I have delved into economic analysis, statistics, and mathematics. Currently, I am combining my economics education with technical skills in **Python** and **Machine Learning** to explore the world of data science.
+I hold a [**Bachelor’s Degree in Economics**](https://www.uno.edu.ar/) from the Universidad Nacional del Oeste, where I developed strong competencies in economic analysis, quantitative methods, statistics, and applied econometrics. Throughout my academic and professional trajectory, I have integrated this analytical foundation with technical expertise in **Python**, **Machine Learning**, and **Data Engineering**, focusing on data-driven problem solving across economic, business, and financial domains.
 
-### 💡 My Path 🚀
+### Technical and Academic Background
 
-From a solid foundation in **computer science** acquired at [**Technical Secondary School No. 5 Merlo**](https://tecnica5merlo.edu.ar/), where I learned C++, HTML5, CSS, C#, and Excel, to a university career focused on economic analysis, my goal is to integrate these technical and analytical skills to tackle complex challenges and develop innovative solutions in **data**.
+My formation combines economics with solid technical training acquired at [**Technical Secondary School No. 5 Merlo**](https://tecnica5merlo.edu.ar/), where I studied computer science fundamentals, including C++, HTML5, CSS, and spreadsheet modeling. Progressively, I expanded these skills into advanced data manipulation, predictive modeling, and automation using Python and modern data technologies.
 
-### 🔧 Main Skills and Experience 🛠️
+### Core Skills and Technical Stack
 
-- **Database Management Systems:** PostgreSQL, SQLite
-- **Cloud Data Analysis Platform:** BigQuery
-- **Programming Languages:** Python
-- **Python Libraries:**
-  - **Data Analysis, Cleaning, Feature Engineering, and Operations:**
-    - Pandas, Polars, NumPy
-  - **Machine Learning & Deep Learning:**
-    - TensorFlow, Scikit-learn, XGBoost, LightGBM, Optuna
-  - **Statistical Analysis:**
-    - SciPy, StatsModels
-  - **Data Visualization:**
-    - Seaborn, Matplotlib, Plotly
-  - **Web Scraping:**
-    - BeautifulSoup, Selenium, Scrapy
-  - **Geospatial Analysis:**
-    - GeoPandas, Folium
+* **Databases:** PostgreSQL, MySQL, SQLite  
+* **Cloud Platforms:** BigQuery  
+* **Programming Languages:** Python  
+* **Python Libraries for Data and ML:**  
+  * **Data Analysis & Processing:** Pandas, Polars, NumPy  
+  * **Machine Learning & Optimization:** Scikit-learn, XGBoost, LightGBM, Optuna, TensorFlow  
+  * **Statistical Analysis:** SciPy, StatsModels  
+  * **Visualization:** Matplotlib, Seaborn, Plotly  
+  * **Automation & Web Scraping:** Selenium, BeautifulSoup, Scrapy  
+  * **Geospatial Analysis:** GeoPandas, Folium  
 
+### Research Experience
 
+In 2023, through an [official university provision](https://www.uno.edu.ar/images/documentos/PROYECTOID/Disposicion%20SCyT%20n%2016-2023.pdf), I joined a research project as a **volunteer assistant**. The study examined **economic and commercial relations between Mercosur and China and their implications for the Province of Buenos Aires**. My contributions included data extraction, processing, and the development of **custom statistical visualizations in Python** to support the economic analysis conducted by the research team.
 
-**In 2023**, during my studies, and through the [**official provision of the university**](https://www.uno.edu.ar/images/documentos/PROYECTOID/Disposicion%20SCyT%20n%2016-2023.pdf), I was granted permission to participate as a volunteer assistant in an official university research project, which lasted for more than a year. **The project focused on international trade relations between Mercosur and China and their economic impact on the Province of Buenos Aires**. There, I was able to apply many of my **Python skills for the visualization of the collected data**.
+### Professional Objective
 
+My professional focus is on applying quantitative methods, machine learning, and data engineering practices to solve complex problems in the economic, financial, and business domains. I aim to deepen my expertise in time-series modeling, forecasting, and scalable data solutions, and to contribute to analytical projects where rigorous methodology and advanced data capabilities drive strategic decision-making.
 
-<!-- - **Projects:** . . . Official Research Project at my University: Economic and Commercial Relations between the Province of Buenos Aires, MERCOSUR, and the People's Republic of China. -->
-
-### 🌟 My Mission and Goals 🌟
-
-My goal is to use my skills in programming and data analysis to address problems in the **financial** field and improve **time series** algorithms. I seek to learn new tools and incorporate better techniques, and I am excited about the potential of **data science** and **Deep Learning** in strategic decision-making.
-
-<!--Intro end-->
 </p>
-<br>
